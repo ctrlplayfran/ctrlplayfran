@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=30&center=true&vCenter=true&width=900&height=50&lines=Desenvolvedora+Web;Professora+de+Robótica+e+Programação;Inteligência+Artificial;Visão+Computacional+e+PLN;Educação+STEAM" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=30&center=true&vCenter=true&width=950&height=50&lines=Desenvolvedora+Web;Professora+de+Robótica+e+Programação;Inteligência+Artificial;Visão+Computacional+e+PLN;Educação+STEAM" />
 </div>
 
 <h1 align="center">Olá 👋, eu sou Francielly Alves Pereira</h1>
@@ -14,7 +14,7 @@ Brasil 🇧🇷
 </h3>
 
 <p align="center">
-Formada em Física, atuo como <strong>Professora de Robótica e Programação</strong> e <strong>Desenvolvedora Web</strong>, desenvolvendo projetos em <strong>Inteligência Artificial, Visão Computacional e Processamento de Linguagem Natural (PLN)</strong>. Trabalho com educação STEAM, criando soluções práticas que integram <strong>software, hardware, robótica e tecnologia educacional</strong>, com foco em criatividade, pensamento computacional e resolução de problemas.
+Formada em Física, atuo como <strong>Professora de Robótica e Programação</strong> e <strong>Desenvolvedora Web</strong>, desenvolvendo projetos em <strong>Inteligência Artificial, Visão Computacional e Processamento de Linguagem Natural (PLN)</strong>. Atualmente trabalho na <strong>CTRL+PLAY</strong>, em <strong>Sorriso-MT</strong>, aplicando educação STEAM em projetos práticos que integram <strong>software, hardware, robótica e tecnologia educacional</strong>, com foco em criatividade, pensamento computacional e resolução de problemas.
 </p>
 
 <p align="left">
@@ -24,11 +24,38 @@ Formada em Física, atuo como <strong>Professora de Robótica e Programação</s
 ---
 
 ## 🔭 Atuação Profissional
-- Professora de Robótica e Programação (Educação STEAM)
+- Professora de Robótica e Programação na **CTRL+PLAY (Sorriso-MT)**
 - Desenvolvedora Web (Front-end e Back-end)
 - Projetos em Inteligência Artificial, Visão Computacional e PLN
 - Integração entre hardware, software e educação tecnológica
 - Desenvolvimento de jogos, aplicações educacionais e protótipos interativos
+
+---
+
+## 🏫 Experiência em Escolas & Projetos Educacionais
+
+Atuei como professora e tutora em robótica e programação em instituições de ensino, desenvolvendo projetos educacionais de alto impacto e equipes competitivas:
+
+- **CTRL+PLAY** — Sorriso-MT (atual)
+- **Colégio Marista de Goiânia**
+- **Colégio Ânima** — Goiânia
+- **Colégio Mais Ânima** — Goiânia
+- **Colégio Excelso** — Goiânia
+- **Colégio Anglo** — Goiânia
+
+### 🏆 Destaques em Competições e Projetos
+
+**Colégio Marista de Goiânia**
+- Tutora da equipe **Mars Rover**, vencedora do **Prêmio de Inovação – Nível 1** na etapa estadual da **Olimpíada Brasileira de Robótica (OBR)** – GO.
+- Tutoria de equipes nas modalidades **Sumô de Robôs** e **Cabo de Guerra de Robôs** no **Interschool Brasil**, conquistando:
+  - 🥈 2º lugar – Sumô de Robôs  
+  - 🥉 3º lugar – Cabo de Guerra de Robôs  
+
+**Colégio Mais Ânima**
+- Tutora de projeto premiado em tecnologia e robótica educacional.
+- Desenvolvimento de uma **pulseira inteligente integrada a aplicativo móvel** para monitoramento de sinais vitais de atletas autistas, com identificação de **níveis de estresse e ansiedade em tempo real**.
+- Projeto **finalista entre os 10 melhores do Brasil no HackaNav (Nave à Vela)**, garantindo uma **vaga para visita à NASA (EUA)**.
+- Tutora da equipe **Mais Atômicos**, vencedora do título **Robô Mais Robusto – Nível 1** na etapa estadual da **OBR – GO**.
 
 ---
 
@@ -64,9 +91,9 @@ Design Thinking • Design Sprint
 ## ✨ Diferenciais
 - Perfil multidisciplinar (Educação + Web + IA)
 - Forte didática e comunicação
-- Projetos práticos e colaborativos
+- Experiência com projetos premiados e competições nacionais
 - Pensamento computacional aplicado
-- Integração entre tecnologia, criatividade e ensino
+- Integração entre tecnologia, criatividade e impacto social
 
 ---
 
